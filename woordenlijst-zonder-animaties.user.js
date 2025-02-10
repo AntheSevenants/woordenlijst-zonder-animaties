@@ -4,7 +4,7 @@
 // @version      2025-02-10
 // @description  Verbeter de prestaties van woordenlijst.org met deze extensie
 // @author       Anthe Sevenants
-// @match        https://woordenlijst.org/
+// @match        https://woordenlijst.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=woordenlijst.org
 // @run-at       document-start
 // @grant        none
